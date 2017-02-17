@@ -1,0 +1,13 @@
+div.navclass {
+background-color: darkblue;
+border-style: solid;
+}
+
+a.navigation {
+text-decoration: none;
+color: aqua;
+}
+
+div.navclass:hover {
+background-color: purple
+}
